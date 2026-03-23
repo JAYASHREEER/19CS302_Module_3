@@ -17,8 +17,8 @@ To write a C program to check whether the given number is prime or not using fun
 ```
 /*
 C program to check whether the given number is prime or not using function without return type and with arguments.
-Developed by: HARSHITHA.Y
-RegisterNumber:  212222060081
+Developed by: JAYASHREE R
+RegisterNumber:  212222060090
 */
 int main()
 {
